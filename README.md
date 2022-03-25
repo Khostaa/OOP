@@ -1,2 +1,2 @@
 # CPP-LabSheet
-C++  programs from www.dsbaral.com.np
+C++  programs from https://www.dsbaral.com.np/subject/cpp
